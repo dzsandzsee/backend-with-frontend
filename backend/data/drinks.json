@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Coca Cola",
+    "price": 560,
+    "desc": "Original taste",
+    "abv": 0
+  },
+  {
+    "name": "Soproni",
+    "price": 360,
+    "desc": "Nagyon komoly",
+    "abv": 4
+  },
+  {
+    "name": "Fanta",
+    "price": 540,
+    "desc": "Sparkling orange",
+    "abv": 0
+  },
+  {
+    "name": "Beluga Vodka",
+    "price": 14500,
+    "desc": "Premium vodka",
+    "abv": 40
+  },
+  {
+    "name": "Jack Daniel's",
+    "price": 8960,
+    "desc": "Original taste",
+    "abv": 43
+  },
+  {
+    "name": "Házi pálinka",
+    "price": 59960,
+    "desc": "Kerítés szaggató",
+    "abv": 50
+  },
+  {
+    "name": "Víz",
+    "price": 130,
+    "desc": "Original taste",
+    "abv": 0
+  },
+  {
+    "name": "Bacardi",
+    "price": 5460,
+    "desc": "Before Dinner Cocktail",
+    "abv": 31
+  },
+  {
+    "name": "teszt",
+    "desc": "zetasd",
+    "abv": 213,
+    "price": 553
+  }
+]
